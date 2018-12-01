@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: computervision
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sheldonanthony
+Implementation-Vendor-Id: com.sheldonleandro
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://www.sheldonleandro.com
+Created-By: Maven Integration for Eclipse
+
